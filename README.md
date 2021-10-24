@@ -9,3 +9,5 @@ Readme updated from **branch 2**
 **commit 2** in **branch 2**
 
 commit 1 from brach 3
+
+commit 2 from branch 3
