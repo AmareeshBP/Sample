@@ -1,6 +1,6 @@
 # Sample
 
-This is a sample repo to study git.
+This is a sample repo to used to learn git.
 
 Something changed here.
 
