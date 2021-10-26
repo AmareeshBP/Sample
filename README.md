@@ -19,3 +19,5 @@ commit 4 from branch 3
 commit 5 from branch 3
 
 commit 6 from branch 3
+
+commit 7 from branch 3
