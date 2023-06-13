@@ -24,6 +24,4 @@ commit 7 from branch 3
 
 commit 1 from branch 4
 
-Try committing after branch rule
-
-Try committing after branch rule again
+Branch rules are set
